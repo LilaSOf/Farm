@@ -5,3 +5,7 @@ public enum ItemType
     HoeTool,ChopTool,BreakTool,ReapTool,WaterTool,CollectTool,
     ReapableScenery
 }
+public enum GoodsType
+{
+    drop,box,boo
+}
